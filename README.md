@@ -19,7 +19,6 @@ you can chmod 777 for this file, then set system shortcut link to this file.
 
 ### Shortcuts
 * \+ | zoom in image
-* \+ | zoom in image
 * = | zoom in image
 * \- | zoom out image
 * Ctrl+C | copy image to clipboard
